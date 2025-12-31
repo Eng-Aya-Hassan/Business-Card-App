@@ -1,3 +1,5 @@
+![Uploading Screenshot_20251231-101836.jpg…]()
+
 A Digital Business Card App built with Flutter, designed to present personal information in a clean and professional way with smooth entrance animations.
 
 ✨ Features
@@ -47,10 +49,11 @@ Run the following commands:
 flutter pub get
 flutter run
 
-👩‍💻 Developer
+#👩‍💻 Developer
 
-Eng: Aya Hassan
-Software Engineer
+#Eng: Aya Hassan
+#Software Engineer
 
-🌐 Portfolio:
-aya-hassan-portfolio.vercel.app
+#🌐 Portfolio:
+#aya-hassan-portfolio.vercel.app
+
