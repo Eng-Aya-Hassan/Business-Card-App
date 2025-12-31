@@ -1,16 +1,56 @@
-# lab
+A Digital Business Card App built with Flutter, designed to present personal information in a clean and professional way with smooth entrance animations.
 
-Business Card App for Android and iOS
+✨ Features
 
-## Getting Started
+🎨 Clean and professional UI
 
-This project is a starting point for a Flutter application.
+🎞️ Entrance animations (Fade & Slide)
 
-A few resources to get you started if this is your first Flutter project:
+🖼️ Circular avatar for logo/profile image
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📇 Information cards (Phone – Email – Website)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚡ Well-structured and easy-to-maintain code
+
+🛠️ Technologies Used
+
+Flutter
+
+Material Design
+
+AnimationController
+
+FadeTransition & SlideTransition
+
+🎬 Animation Concept
+
+When the app starts:
+
+UI elements fade in smoothly (Fade In)
+
+Combined with a subtle upward movement (Slide Up)
+Providing a modern and professional user experience.
+
+📂 Project Structure
+lib/
+ └── main.dart
+assets/
+ └── images/
+     └── logo.png
+
+▶️ How to Run
+
+Make sure Flutter is installed
+
+Run the following commands:
+
+flutter pub get
+flutter run
+
+👩‍💻 Developer
+
+Eng: Aya Hassan
+Software Engineer
+
+🌐 Portfolio:
+aya-hassan-portfolio.vercel.app
